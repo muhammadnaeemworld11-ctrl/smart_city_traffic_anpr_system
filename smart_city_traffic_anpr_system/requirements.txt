@@ -1,0 +1,7 @@
+streamlit  -- for UI
+pandas  -- for dataframe
+fastapi  -- for creating APIs
+easyocr --  for optical character recognition (OCR)
+opencv-python  -- for image and video processing
+sqlalchemy  -- for high-level SQL toolkit and Object-Relational Mapping (ORM)
+ultralytics  -- for  object detection and tracking
